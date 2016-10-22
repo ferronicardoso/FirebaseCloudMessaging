@@ -16,7 +16,7 @@ Usando o FCM, é possível enviar notificações para o aplicativo cliente, seja
 Como utilizar?
 -------------
 
-Em seu projeto que irá fazer o envio das notificações, faça referência a bibilioteca `Firebase Cloud Messaging` 
+Em seu projeto que irá fazer o envio das notificações, faça referência a bibilioteca `Firebase Cloud Messaging` e utilize o código abaixo para fazer os envios de notificação. É importante que tenha criado o projeto no [console do Firebase](https://console.firebase.google.com/).
 
 ```
 var SERVER_API_KEY = "<server_api_key>";
